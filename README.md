@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## clone this repository
+## clone this repository using this command
 
-### `https://github.com/UserSithija/news-homepage.git`
+### `git clone https://github.com/UserSithija/news-homepage.git`
 
 go to the project folder
 
