@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## clone this repository
 
+### `https://github.com/UserSithija/news-homepage.git`
+
 go to the project folder
 
 ### `cd news-homepage`
