@@ -4,12 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## clone this repository
 
-### go to the project folder
+go to the project folder
 
-#### cd news-homepage
+### `cd news-homepage`
 
 and type command
-### npm i
+
+### `npm i`
 
 In the project directory, you can run:
 
