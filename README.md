@@ -2,11 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##clone this repository
+## clone this repository
 
-###go to the project folder
+### go to the project folder
 
-####cd news-homepage
+#### cd news-homepage
 
 and type command
 ### npm i
