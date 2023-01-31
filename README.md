@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+pre requirements
+### install node.js
+
 ## clone this repository using this command
 
 ### `git clone https://github.com/UserSithija/news-homepage.git`
