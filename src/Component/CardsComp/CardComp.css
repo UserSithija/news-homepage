@@ -1,0 +1,49 @@
+.card-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  margin-top: 50px;
+}
+.card-comp {
+  width: 100%;
+  display: flex;
+  gap: 25px;
+
+  /* height: 126px; */
+}
+.card-left {
+}
+.cardimg {
+  width: 102px;
+  height: 127px;
+}
+.card-body {
+}
+.card-number,
+.card-title,
+.card-text {
+  text-align: start;
+}
+.card-title {
+  font-weight: 800;
+  color: var(--Very-dark-blue);
+  transition: all 300ms ease-in-out;
+  cursor: pointer;
+}
+.card-title:hover {
+  color: var(--Soft-Red);
+}
+.card-number,
+.card-text {
+  color: var(--Grayish-blue);
+}
+@media (min-width: 992px) {
+  .card-comp {
+    width: 330px;
+    height: 126px;
+  }
+
+  .card-grid {
+    justify-content: space-between;
+  }
+}

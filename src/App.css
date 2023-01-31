@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap");
+:root {
+  --Soft-Orange: #e9ab53;
+  --Soft-Red: #f15e50;
+
+  --Off-white: #fffdfa;
+  --Grayish-blue: #c5c6ce;
+  --Dark-grayish-blue: #5d5f79;
+  --Very-dark-blue: #00001a;
+}
+
+.App {
+  text-align: center;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
